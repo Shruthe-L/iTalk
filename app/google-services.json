@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1095779485760",
+    "firebase_url": "https://italk-c8cad.firebaseio.com",
+    "project_id": "italk-c8cad",
+    "storage_bucket": "italk-c8cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095779485760:android:269fb4035c17627d49f7a5",
+        "android_client_info": {
+          "package_name": "com.example.italk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095779485760-mini7ssto6qbj40q0kg6g0oukoi01f1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.italk",
+            "certificate_hash": "9496db5fec0049974adc6487d9bcfd7177aaff6f"
+          }
+        },
+        {
+          "client_id": "1095779485760-rt6bq7569chvhm32124h4uoqvn6rn1bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA50Cm3GlLpRE0w3tG6_50sH7SmIMs3KJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095779485760-rt6bq7569chvhm32124h4uoqvn6rn1bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
